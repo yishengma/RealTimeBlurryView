@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--直播快速回复页 模糊 -->
+    <declare-styleable name="BlurryView">
+        <attr name="blurry_radius" format="dimension"/> <!--模糊半径（模糊程度）-->
+        <attr name="blurry_color"  format="color" />  <!--覆盖颜色-->
+        <attr name="blurry_factor" format="float"/>
+    </declare-styleable>
+</resources>
